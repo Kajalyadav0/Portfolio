@@ -1,0 +1,17 @@
+/* PARTIAL: POST HERO TITLE
+-------------------------------------------- */
+
+.vlt-post-hero-title {
+	display: flex;
+	align-items: flex-end;
+	min-height: 100vh;
+	padding: px2rem(480px) 0 px2rem(150px);
+	background-color: $c5;
+
+	.vlt-post-meta {
+		display: block;
+		margin-bottom: px2rem(20px);
+		color: $c1;
+	}
+
+}

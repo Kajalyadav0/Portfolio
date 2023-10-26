@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/portfolio
+Data file = C:\xampp\htdocs\Portfolio/wp-content/themes/gilber/inc/demo/demo-content.xml
+Widget file = C:\xampp\htdocs\Portfolio/wp-content/themes/gilber/inc/demo/widgets.wie
+Customizer file = C:\xampp\htdocs\Portfolio/wp-content/themes/gilber/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "behance" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "behance" (Media)
+[ERROR] Failed to import "logo-05" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "avatar-01" (Media)
+[ERROR] Failed to import "single-product-01" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
